@@ -1,0 +1,432 @@
+[{"name":"1925 (2).jpg",
+"values":[
+{"color": "red", "ratio": 39.794258266099476},
+{"color": "green", "ratio": 32.57120121197854},
+{"color": "blue", "ratio": 27.63454052192198}]
+},
+{"name":"1925 (3).jpg",
+"values":[
+{"color": "red", "ratio": 36.64658765042323},
+{"color": "green", "ratio": 32.308640688119986},
+{"color": "blue", "ratio": 31.044771661456775}]
+},
+{"name":"1925.jpg",
+"values":[
+{"color": "red", "ratio": 36.460776884107645},
+{"color": "green", "ratio": 34.14793064219453},
+{"color": "blue", "ratio": 29.39129247369782}]
+},
+{"name":"1927 (2).jpg",
+"values":[
+{"color": "red", "ratio": 31.743567304010814},
+{"color": "green", "ratio": 35.95339860445855},
+{"color": "blue", "ratio": 32.30303409153064}]
+},
+{"name":"1927 (3).jpg",
+"values":[
+{"color": "red", "ratio": 46.51394952498051},
+{"color": "green", "ratio": 32.40036895055905},
+{"color": "blue", "ratio": 21.085681524460426}]
+},
+{"name":"1927.jpg",
+"values":[
+{"color": "red", "ratio": 38.41562259873584},
+{"color": "green", "ratio": 32.8685153494445},
+{"color": "blue", "ratio": 28.715862051819656}]
+},
+{"name":"1928 (2).jpg",
+"values":[
+{"color": "red", "ratio": 40.392349800734145},
+{"color": "green", "ratio": 29.131039931816147},
+{"color": "blue", "ratio": 30.47661026744971}]
+},
+{"name":"1928 (3).jpg",
+"values":[
+{"color": "red", "ratio": 41.29610776606194},
+{"color": "green", "ratio": 37.7043546271998},
+{"color": "blue", "ratio": 20.999537606738272}]
+},
+{"name":"1928.jpg",
+"values":[
+{"color": "red", "ratio": 55.48647118906504},
+{"color": "green", "ratio": 26.141540183073207},
+{"color": "blue", "ratio": 18.371988627861736}]
+},
+{"name":"1929 (2).jpg",
+"values":[
+{"color": "red", "ratio": 38.30591780976256},
+{"color": "green", "ratio": 31.0245914832147},
+{"color": "blue", "ratio": 30.669490707022753}]
+},
+{"name":"1929 (3).jpg",
+"values":[
+{"color": "red", "ratio": 43.616812684220925},
+{"color": "green", "ratio": 31.296016449179756},
+{"color": "blue", "ratio": 25.087170866599322}]
+},
+{"name":"1929.jpg",
+"values":[
+{"color": "red", "ratio": 33.892158091606575},
+{"color": "green", "ratio": 33.599331719256114},
+{"color": "blue", "ratio": 32.508510189137304}]
+},
+{"name":"1930 (2).jpg",
+"values":[
+{"color": "red", "ratio": 38.68954798006222},
+{"color": "green", "ratio": 31.883726924932173},
+{"color": "blue", "ratio": 29.426725095005605}]
+},
+{"name":"1930 (3).jpg",
+"values":[
+{"color": "red", "ratio": 42.70908895831793},
+{"color": "green", "ratio": 32.19241352159251},
+{"color": "blue", "ratio": 25.098497520089563}]
+},
+{"name":"1930.jpg",
+"values":[
+{"color": "red", "ratio": 39.451563392988724},
+{"color": "green", "ratio": 31.80749005244259},
+{"color": "blue", "ratio": 28.740946554568687}]
+},
+{"name":"1931 (2).jpg",
+"values":[
+{"color": "red", "ratio": 38.64666209816605},
+{"color": "green", "ratio": 33.54434549484799},
+{"color": "blue", "ratio": 27.80899240698597}]
+},
+{"name":"1931 (3).jpg",
+"values":[
+{"color": "red", "ratio": 39.76425650630315},
+{"color": "green", "ratio": 33.659955762787725},
+{"color": "blue", "ratio": 26.575787730909123}]
+},
+{"name":"1931.jpg",
+"values":[
+{"color": "red", "ratio": 51.889827824125},
+{"color": "green", "ratio": 31.987032101992543},
+{"color": "blue", "ratio": 16.123140073882443}]
+},
+{"name":"1932 (2).jpg",
+"values":[
+{"color": "red", "ratio": 33.33730725846794},
+{"color": "green", "ratio": 34.218098675026305},
+{"color": "blue", "ratio": 32.44459406650576}]
+},
+{"name":"1932 (3).jpg",
+"values":[
+{"color": "red", "ratio": 36.3712980538415},
+{"color": "green", "ratio": 30.87788401538927},
+{"color": "blue", "ratio": 32.750817930769244}]
+},
+{"name":"1932.jpg",
+"values":[
+{"color": "red", "ratio": 40.00694235854669},
+{"color": "green", "ratio": 32.120408325529624},
+{"color": "blue", "ratio": 27.872649315923695}]
+},
+{"name":"1933 (2).jpg",
+"values":[
+{"color": "red", "ratio": 38.56831386674483},
+{"color": "green", "ratio": 34.09732012248898},
+{"color": "blue", "ratio": 27.334366010766193}]
+},
+{"name":"1933 (3).jpg",
+"values":[
+{"color": "red", "ratio": 41.68025049377545},
+{"color": "green", "ratio": 31.819325761961547},
+{"color": "blue", "ratio": 26.500423744263}]
+},
+{"name":"1933.jpg",
+"values":[
+{"color": "red", "ratio": 35.23021900269436},
+{"color": "green", "ratio": 32.887953926398055},
+{"color": "blue", "ratio": 31.881827070907587}]
+},
+{"name":"1935 (2).jpg",
+"values":[
+{"color": "red", "ratio": 42.21480317763641},
+{"color": "green", "ratio": 30.166738975570304},
+{"color": "blue", "ratio": 27.618457846793298}]
+},
+{"name":"1935 (3).jpg",
+"values":[
+{"color": "red", "ratio": 37.78310213522891},
+{"color": "green", "ratio": 31.87344862802919},
+{"color": "blue", "ratio": 30.343449236741904}]
+},
+{"name":"1935.jpg",
+"values":[
+{"color": "red", "ratio": 43.91309276600875},
+{"color": "green", "ratio": 34.416353720331806},
+{"color": "blue", "ratio": 21.670553513659446}]
+},
+{"name":"1937 (2).jpg",
+"values":[
+{"color": "red", "ratio": 39.45081519833813},
+{"color": "green", "ratio": 33.00204802055995},
+{"color": "blue", "ratio": 27.547136781101933}]
+},
+{"name":"1937 (3).jpg",
+"values":[
+{"color": "red", "ratio": 38.59427399053011},
+{"color": "green", "ratio": 32.724245226432075},
+{"color": "blue", "ratio": 28.681480783037813}]
+},
+{"name":"1937.jpg",
+"values":[
+{"color": "red", "ratio": 37.40930943501075},
+{"color": "green", "ratio": 31.130268685647877},
+{"color": "blue", "ratio": 31.460421879341382}]
+},
+{"name":"1938 (2).jpg",
+"values":[
+{"color": "red", "ratio": 40.82212395133977},
+{"color": "green", "ratio": 32.34985612044059},
+{"color": "blue", "ratio": 26.82801992821965}]
+},
+{"name":"1938 (3).jpg",
+"values":[
+{"color": "red", "ratio": 37.3443502285438},
+{"color": "green", "ratio": 35.85208046255821},
+{"color": "blue", "ratio": 26.80356930889798}]
+},
+{"name":"1938.jpg",
+"values":[
+{"color": "red", "ratio": 34.66621648799246},
+{"color": "green", "ratio": 34.00107291565976},
+{"color": "blue", "ratio": 31.33271059634778}]
+},
+{"name":"1939 (2).jpg",
+"values":[
+{"color": "red", "ratio": 33.87073403672162},
+{"color": "green", "ratio": 33.087633439387865},
+{"color": "blue", "ratio": 33.04163252389053}]
+},
+{"name":"1939 (3).jpg",
+"values":[
+{"color": "red", "ratio": 39.34799474235603},
+{"color": "green", "ratio": 33.406806403384884},
+{"color": "blue", "ratio": 27.24519885425909}]
+},
+{"name":"1939.jpg",
+"values":[
+{"color": "red", "ratio": 40.74071505724136},
+{"color": "green", "ratio": 33.21620556896784},
+{"color": "blue", "ratio": 26.043079373790786}]
+},
+{"name":"1940 (2).jpg",
+"values":[
+{"color": "red", "ratio": 35.08923045390592},
+{"color": "green", "ratio": 33.8254456896836},
+{"color": "blue", "ratio": 31.085323856410483}]
+},
+{"name":"1940 (3).jpg",
+"values":[
+{"color": "red", "ratio": 40.856420198429056},
+{"color": "green", "ratio": 36.40952611454235},
+{"color": "blue", "ratio": 22.734053687028595}]
+},
+{"name":"1940.jpg",
+"values":[
+{"color": "red", "ratio": 38.39679790028286},
+{"color": "green", "ratio": 34.2555984492986},
+{"color": "blue", "ratio": 27.34760365041855}]
+},
+{"name":"1941 (2).jpg",
+"values":[
+{"color": "red", "ratio": 42.435430463576154},
+{"color": "green", "ratio": 36.15890001615248},
+{"color": "blue", "ratio": 21.405669520271363}]
+},
+{"name":"1941 (3).jpg",
+"values":[
+{"color": "red", "ratio": 36.96548412367058},
+{"color": "green", "ratio": 32.21623172669374},
+{"color": "blue", "ratio": 30.818284149635673}]
+},
+{"name":"1941.jpg",
+"values":[
+{"color": "red", "ratio": 36.2729826784767},
+{"color": "green", "ratio": 37.14143278060165},
+{"color": "blue", "ratio": 26.58558454092165}]
+},
+{"name":"1942 (2).jpg",
+"values":[
+{"color": "red", "ratio": 42.98287292383189},
+{"color": "green", "ratio": 32.60580068786175},
+{"color": "blue", "ratio": 24.41132638830635}]
+},
+{"name":"1942 (3).jpg",
+"values":[
+{"color": "red", "ratio": 40.847239526757015},
+{"color": "green", "ratio": 32.95033685633071},
+{"color": "blue", "ratio": 26.202423616912288}]
+},
+{"name":"1942.jpg",
+"values":[
+{"color": "red", "ratio": 39.64706428487744},
+{"color": "green", "ratio": 33.41681827325439},
+{"color": "blue", "ratio": 26.936117441868177}]
+},
+{"name":"1943 (2).jpg",
+"values":[
+{"color": "red", "ratio": 35.41214924466077},
+{"color": "green", "ratio": 35.72460219054086},
+{"color": "blue", "ratio": 28.863248564798386}]
+},
+{"name":"1943 (3).jpg",
+"values":[
+{"color": "red", "ratio": 38.96443101808138},
+{"color": "green", "ratio": 35.42706295836474},
+{"color": "blue", "ratio": 25.60850602355388}]
+},
+{"name":"1943.jpg",
+"values":[
+{"color": "red", "ratio": 58.64123091882803},
+{"color": "green", "ratio": 28.62731482393298},
+{"color": "blue", "ratio": 12.731454257238983}]
+},
+{"name":"1944 (2).jpg",
+"values":[
+{"color": "red", "ratio": 51.55702016857235},
+{"color": "green", "ratio": 29.705650019548862},
+{"color": "blue", "ratio": 18.73732981187879}]
+},
+{"name":"1944 (3).jpg",
+"values":[
+{"color": "red", "ratio": 41.8583429583982},
+{"color": "green", "ratio": 33.65836161069781},
+{"color": "blue", "ratio": 24.48329543090399}]
+},
+{"name":"1944.jpg",
+"values":[
+{"color": "red", "ratio": 43.1100471130532},
+{"color": "green", "ratio": 28.656931735105385},
+{"color": "blue", "ratio": 28.233021151841417}]
+},
+{"name":"1945 (2).jpg",
+"values":[
+{"color": "red", "ratio": 42.980090505971816},
+{"color": "green", "ratio": 35.62916050350722},
+{"color": "blue", "ratio": 21.390748990520965}]
+},
+{"name":"1945 (3).jpg",
+"values":[
+{"color": "red", "ratio": 45.72992522954772},
+{"color": "green", "ratio": 31.227529989677144},
+{"color": "blue", "ratio": 23.04254478077513}]
+},
+{"name":"1945.jpg",
+"values":[
+{"color": "red", "ratio": 43.15430772481515},
+{"color": "green", "ratio": 33.4811917840484},
+{"color": "blue", "ratio": 23.364500491136447}]
+},
+{"name":"1946 (2).jpg",
+"values":[
+{"color": "red", "ratio": 42.5576332333655},
+{"color": "green", "ratio": 36.90181216625007},
+{"color": "blue", "ratio": 20.540554600384443}]
+},
+{"name":"1946 (3).jpg",
+"values":[
+{"color": "red", "ratio": 38.37851048629809},
+{"color": "green", "ratio": 34.52974727931693},
+{"color": "blue", "ratio": 27.09174223438499}]
+},
+{"name":"1946.jpg",
+"values":[
+{"color": "red", "ratio": 38.190257341883324},
+{"color": "green", "ratio": 33.075133242700225},
+{"color": "blue", "ratio": 28.73460941541645}]
+},
+{"name":"1947 (2).jpg",
+"values":[
+{"color": "red", "ratio": 48.87933501836197},
+{"color": "green", "ratio": 34.928184724288194},
+{"color": "blue", "ratio": 16.19248025734983}]
+},
+{"name":"1947 (3).jpg",
+"values":[
+{"color": "red", "ratio": 40.113953266832574},
+{"color": "green", "ratio": 35.70242021496834},
+{"color": "blue", "ratio": 24.183626518199087}]
+},
+{"name":"1947.jpg",
+"values":[
+{"color": "red", "ratio": 40.10509067899692},
+{"color": "green", "ratio": 31.905720540126357},
+{"color": "blue", "ratio": 27.98918878087673}]
+},
+{"name":"1949 (2).jpg",
+"values":[
+{"color": "red", "ratio": 35.79696859177189},
+{"color": "green", "ratio": 33.49535599533135},
+{"color": "blue", "ratio": 30.70767541289676}]
+},
+{"name":"1949 (3).jpg",
+"values":[
+{"color": "red", "ratio": 35.79696859177189},
+{"color": "green", "ratio": 33.49535599533135},
+{"color": "blue", "ratio": 30.70767541289676}]
+},
+{"name":"1949.jpg",
+"values":[
+{"color": "red", "ratio": 42.62334711517618},
+{"color": "green", "ratio": 35.13144200900908},
+{"color": "blue", "ratio": 22.245210875814738}]
+},
+{"name":"1951 (2).jpg",
+"values":[
+{"color": "red", "ratio": 41.12781077933165},
+{"color": "green", "ratio": 31.850436813858813},
+{"color": "blue", "ratio": 27.02175240680953}]
+},
+{"name":"1951 (3).jpg",
+"values":[
+{"color": "red", "ratio": 44.42063373171138},
+{"color": "green", "ratio": 29.66418431522901},
+{"color": "blue", "ratio": 25.91518195305961}]
+},
+{"name":"1951.jpg",
+"values":[
+{"color": "red", "ratio": 47.378640995912086},
+{"color": "green", "ratio": 33.36008938251479},
+{"color": "blue", "ratio": 19.26126962157313}]
+},
+{"name":"1952 (2).jpg",
+"values":[
+{"color": "red", "ratio": 41.32417200078471},
+{"color": "green", "ratio": 32.82677277236627},
+{"color": "blue", "ratio": 25.849055226849014}]
+},
+{"name":"1952 (3).jpg",
+"values":[
+{"color": "red", "ratio": 40.998809479468},
+{"color": "green", "ratio": 33.57792115526016},
+{"color": "blue", "ratio": 25.423269365271842}]
+},
+{"name":"1952.jpg",
+"values":[
+{"color": "red", "ratio": 43.241796790869145},
+{"color": "green", "ratio": 31.24293910174324},
+{"color": "blue", "ratio": 25.515264107387623}]
+},
+{"name":"1954 (2).jpg",
+"values":[
+{"color": "red", "ratio": 44.35231529303181},
+{"color": "green", "ratio": 31.520946862445307},
+{"color": "blue", "ratio": 24.126737844522893}]
+},
+{"name":"1954 (3).jpg",
+"values":[
+{"color": "red", "ratio": 35.10023266198209},
+{"color": "green", "ratio": 35.26490136969326},
+{"color": "blue", "ratio": 29.63486596832464}]
+},
+{"name":"1954.jpg",
+"values":[
+{"color": "red", "ratio": 36.53661365428229},
+{"color": "green", "ratio": 39.31383247227975},
+{"color": "blue", "ratio": 24.149553873437963}]
+}]
